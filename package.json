@@ -1,0 +1,8 @@
+{
+  "name": "eclipse-finance-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page responsiva Eclipse Finance",
+  "scripts": { "start": "vite", "build": "vite" },
+  "devDependencies": { "vite": "^6.0.0" }
+}
